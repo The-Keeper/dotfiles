@@ -1,0 +1,11 @@
+[helpers]
+
+[default]
+depends = []
+
+[default.files]
+
+[default.variables]
+
+[shell.files]
+alacritty = "~/.config/alacritty"
