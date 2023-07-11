@@ -9,3 +9,6 @@ depends = []
 
 [shell.files]
 alacritty = "~/.config/alacritty"
+
+[utils.files]
+zathura  = "~/.config/zathura"
